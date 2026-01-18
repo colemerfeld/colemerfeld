@@ -18,7 +18,7 @@ Welcome to my IT learning journey! I'm documenting my progress as I break into t
 
 ## 📚 Learning Resources
 - LPI Linux Essentials Learning Materials
-- ChatGPT and Claude
+- NDG Linux Essentials and Claude
 - Hands-on practice with Ubuntu server on VM, remote SSH'd from VS Code 
 
 ## 📫 Get in Touch
